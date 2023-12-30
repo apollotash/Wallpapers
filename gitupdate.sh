@@ -9,4 +9,4 @@ git commit -m "Last update"
 
 
 #git remote add origin git@github.com:apollotash/Wallpapers.git
-git push -u origin master
+git push -u origin main
